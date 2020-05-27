@@ -998,6 +998,7 @@ RUN_HOST_CONFIG_KWARGS = [
     'device_write_bps',
     'device_write_iops',
     'devices',
+    'device_requests',
     'dns_opt',
     'dns_search',
     'dns',
